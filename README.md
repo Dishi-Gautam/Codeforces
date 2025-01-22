@@ -1,4 +1,4 @@
-# My Codeforces Solutions 🚀💻
+# My Codeforces Journey 🚀💻
 
 ## 🌟 Overview
 Welcome to my Codeforces solutions repository! 🎉 
